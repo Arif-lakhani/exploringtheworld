@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/gfansdk/机锋统计/GfanStatistics_android_SDK_1.0.2/gfansdk_statistics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/gfansdk/机锋广告/九城桔子平台/JuZiSDK2.1.5.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
